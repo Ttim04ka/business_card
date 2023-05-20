@@ -485,6 +485,18 @@ main {
   .footer_data a {
     font-size: 22px; } }
 
+@media (min-width: 1300px) and (max-width: 1799px) {
+  .skill_title {
+    font-size: 20px; }
+  .work_title {
+    font-size: 24px; }
+  .footer_text div {
+    font-size: 18px; }
+  .footer_data {
+    font-weight: bold; }
+  .footer_form .message {
+    margin-bottom: 70px; } }
+
 @media (min-width: 1300px) and (max-width: 1800px) {
   .about_text {
     font-size: 18px; }

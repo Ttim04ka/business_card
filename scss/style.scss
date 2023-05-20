@@ -627,6 +627,38 @@ main{
         }
     }
 }
+@media (min-width: 1300px) and (max-width: 1799px) {
+    .skill{
+        
+        &_title{
+            font-size: 20px;
+        }
+    }
+    .work{
+        &_title{
+            font-size: 24px;
+        }
+    }
+    .footer{
+        &_text{
+           
+            div{
+                font-size: 18px;
+            }
+           
+            
+        }
+        &_data{
+            font-weight: bold;
+        }  
+
+        &_form{
+            .message{
+                margin-bottom: 70px;
+            }
+        }
+    }
+}
 
 @media (min-width: 1300px) and (max-width: 1800px) {
     .about{
