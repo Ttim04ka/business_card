@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-sass": "^8.0.0",
+    "scrollmagic": "^2.0.8"
+  },
+  "scripts": {
+    "styles": "node-sass -w ./scss -o ./css"
+  }
+}
